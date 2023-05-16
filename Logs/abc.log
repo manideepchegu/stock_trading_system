@@ -1,0 +1,48 @@
+WARNING:2023-05-11 14:29:19,355:app:starting the database connection
+ERROR:2023-05-11 14:29:19,356:settings:Error occurred: not all arguments converted during string formatting
+WARNING:2023-05-11 14:29:47,834:app:starting the database connection
+WARNING:2023-05-11 14:30:31,922:app:starting the database connection
+WARNING:2023-05-11 14:31:15,278:app:starting the database connection
+WARNING:2023-05-11 15:01:26,732:app:starting the database connection
+WARNING:2023-05-11 15:10:01,670:app:starting the database connection
+WARNING:2023-05-11 15:10:17,627:app:starting the database connection
+WARNING:2023-05-11 15:13:14,290:app:starting the database connection
+WARNING:2023-05-11 15:14:54,163:app:starting the database connection
+WARNING:2023-05-11 15:15:31,487:app:starting the database connection
+WARNING:2023-05-11 15:17:27,681:app:starting the database connection
+WARNING:2023-05-11 15:17:58,803:app:starting the database connection
+WARNING:2023-05-11 15:18:18,884:app:starting the database connection
+WARNING:2023-05-11 15:19:36,449:app:starting the database connection
+WARNING:2023-05-11 15:25:10,450:app:starting the database connection
+ERROR:2023-05-11 15:25:10,598:settings:Error occurred: cannot unpack non-iterable int object
+WARNING:2023-05-11 15:26:12,860:app:starting the database connection
+ERROR:2023-05-11 15:26:12,993:settings:Error occurred: cannot unpack non-iterable int object
+WARNING:2023-05-11 15:27:51,467:app:starting the database connection
+ERROR:2023-05-11 15:27:51,597:settings:Error occurred: name 'row' is not defined
+WARNING:2023-05-11 15:28:09,395:app:starting the database connection
+ERROR:2023-05-11 15:28:09,517:settings:Error occurred: too many values to unpack (expected 4)
+WARNING:2023-05-11 15:28:48,379:app:starting the database connection
+WARNING:2023-05-11 15:28:48,522:app:close the database connection
+ERROR:2023-05-11 15:46:25,900:settings:Error occurred: syntax error at or near "="
+LINE 1: UPDATE buying_cost_per_unit=900,selling_cost_per_unit=1400 F...
+                                   ^
+
+WARNING:2023-05-11 15:48:57,383:app:starting the database connection
+WARNING:2023-05-11 15:48:57,529:app:close the database connection
+WARNING:2023-05-11 15:55:02,458:app:starting the database connection
+ERROR:2023-05-11 15:55:02,669:settings:Error occurred: syntax error at or near "*"
+LINE 1: DELETE * FROM stock_data WHERE stock_id=4
+               ^
+
+WARNING:2023-05-11 15:56:03,319:app:starting the database connection
+WARNING:2023-05-11 15:56:03,738:app:close the database connection
+WARNING:2023-05-11 15:57:06,325:app:starting the database connection
+WARNING:2023-05-11 15:57:06,440:app:close the database connection
+WARNING:2023-05-11 16:24:45,150:app:starting the database connection
+ERROR:2023-05-11 16:24:45,152:settings:Error occurred: 'NoneType' object has no attribute 'execute'
+WARNING:2023-05-11 16:25:31,271:app:starting the database connection
+WARNING:2023-05-11 16:25:31,432:app:close the database connection
+WARNING:2023-05-11 16:33:55,584:app:starting the database connection
+ERROR:2023-05-11 16:33:55,587:settings:Error occurred: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+WARNING:2023-05-11 16:39:42,308:app:starting the database connection
+WARNING:2023-05-11 16:41:49,290:app:starting the database connection
